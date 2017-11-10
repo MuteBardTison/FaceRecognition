@@ -1,5 +1,7 @@
 # Face Recognition
 
+[![Build Status](https://travis-ci.org/MuteBardTison/FaceRecognition.svg?branch=master)](https://travis-ci.org/MuteBardTison/FaceRecognition)
+
 This is an implementation of EigenFace Recognition Algorithm with OpenCV in C++.
 
 Using approximately centered Yale-faces images and test Yoda image to find the closest image in the training dataset.
