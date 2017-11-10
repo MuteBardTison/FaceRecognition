@@ -6,6 +6,7 @@ compiler:
 
 before_script:
   - sudo apt-get install libopencv-dev
+  - sudo apt-get install libboost-all-dev
   - mkdir build output
   - cd build
   - cmake ..
