@@ -31,6 +31,10 @@ def CropFace(image, eye_left=(0,0), eye_right=(0,0), offset_pct=(0.2,0.2), dest_
   offset_v = math.floor(float(offset_pct[1])*dest_sz[1])
   # get the direction
   eye_direction = (eye_right[0] - eye_left[0], eye_right[1] - eye_left[1])
+  # calc rotation angle in radians
+  rotation = -math.atan2(float(eye_direction[1]),float(eye_direction[0]))
+  # distance between them
+  dist = Distance(eye_left, eye_right)
   # calculate the reference eye-width
   reference = dest_sz[0] - 2.0*offset_h
   # scale factor
