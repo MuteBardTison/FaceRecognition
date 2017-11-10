@@ -1,15 +1,12 @@
 language: cpp
 
-os:
-  - osx
-
 compiler:
   - gcc
   - clang
 
 before_script:
-  - brew install opencv
-  - mkdir build
+  - sudo apt-get install libopencv-dev
+  - mkdir build output
   - cd build
   - cmake ..
 
