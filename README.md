@@ -1,4 +1,4 @@
-# FaceRecognition
+# Face Recognition
 
 This is an implementation of EigenFace Recognition Algorithm with OpenCV in C++.
 
