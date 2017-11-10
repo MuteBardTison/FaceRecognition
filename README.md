@@ -1,6 +1,7 @@
 # Face Recognition
 
 [![Build Status](https://travis-ci.org/MuteBardTison/FaceRecognition.svg?branch=master)](https://travis-ci.org/MuteBardTison/FaceRecognition)
+[![release](http://github-release-version.herokuapp.com/github/MuteBardTison/FaceRecognition/release.svg?style=flat)](https://github.com/MuteBardTison/FaceRecognition/releases)
 
 This is an implementation of EigenFace Recognition Algorithm with OpenCV in C++.
 
