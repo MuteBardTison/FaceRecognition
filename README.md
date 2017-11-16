@@ -37,7 +37,7 @@ Demonstrating with iTerm2
 
 ## Reference
 
-[Eigenfaces for Recognition](https://s3.amazonaws.com/academia.edu.documents/30894770/jcn.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1510301188&Signature=EOTg9mAN2ZdIbl4OqyYD1ZWeC4c%3D&response-content-disposition=inline%3B%20filename%3DEigenfaces_for_Recognition.pdf). Turk, M. and Pentland, A. (1991). 
+[Eigenfaces for Recognition](https://www.cs.ucsb.edu/~mturk/Papers/jcn.pdf). Turk, M. and Pentland, A. (1991). 
 
 ## License
 
